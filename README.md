@@ -1,16 +1,12 @@
-### Hi there 👋
+저는 현재 웹개발을 하고 있는 2년차 주니어 개발자입니다.  
+연차가 쌓이기 전에 기초를 더 탄탄하게 다져서  
+시니어라는 수식어가 붙었을 때 부끄럽지 않은 개발자가 되고 싶습니다.
 
-<!--
-**gaeundev/gaeundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :exploding_head: 머리를 쥐어뜯으며 오르고 있는 험난하지만 즐거운 Javascript 여정기
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. PHP로 웹을 처음 배우면서 jquery와 함께 처음 접함
+2. 지인 개발자의 권유로 node.js기반 express 서버를 처음 접함
+3. 위 경험을 토대로 서버 개발자로 취업하여 express 서버 구축
+4. 서버 개발자로 취업했으나 프론트 개발이 필요해 next.js를 도입하여 개발 및 배포
+5. 최근 오픈소스에 관심이 생겼으나 typescript기반으로 된 프로젝트가 많아서 어려움을 겪었고, typescript 기초를 배우기 시작
+6. typescript 기초와 더불어 javascript로 코딩테스트 열풍에 도전중..이지만 좌절감을 맛보는 중..
